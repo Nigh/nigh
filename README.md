@@ -3,15 +3,15 @@
 <h3 align="center">Tech Stack</h3>
 <div style="width:100%;text-align:center;margin:0 auto;">
 <div style="display:inline-block;">
-    <img src="./assets/sch.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/sch.png"/>
     <p align="center">Design</p>
 </div>
 <div style="display:inline-block;">
-    <img src="./assets/pcb.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/pcb.png"/>
     <p align="center">Layout</p>
 </div>
 <div style="display:inline-block;">
-    <img src="./assets/code.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/code.png"/>
     <p align="center">Programming</p>
 </div>
 </div>
@@ -19,19 +19,19 @@
 <h3 align="center">Work on</h3>
 <div style="width:100%;text-align:center;margin:0 auto;">
 <div style="display:inline-block;">
-    <img src="./assets/arm.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/arm.png"/>
     <p align="center">ARM</p>
 </div>
 <div style="display:inline-block;">
-    <img src="./assets/arduino.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/arduino.png"/>
     <p align="center">Arduino</p>
 </div>
 <div style="display:inline-block;">
-    <img src="./assets/raspi.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/raspi.png"/>
     <p align="center">RaspberryPi</p>
 </div>
 <div style="display:inline-block;">
-    <img src="./assets/love2d.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/love2d.png"/>
     <p align="center">LÖVE</p>
 </div>
 </div>
@@ -39,13 +39,13 @@
 <h3 align="center">Language</h3>
 <div style="width:100%;text-align:center;margin:0 auto;">
 <div style="display:inline-block;">
-    <img src="./assets/c.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/c.png"/>
     <p align="center">c</p>
 </div><div style="display:inline-block;">
-    <img src="./assets/lua.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/lua.png"/>
     <p align="center">lua</p>
 </div><div style="display:inline-block;">
-    <img src="./assets/ahk.png"/>
+    <img src="https://github.com/Nigh/nigh/raw/master/assets/ahk.png"/>
     <p align="center">autohotkey</p>
 </div>
 </div>
