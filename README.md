@@ -1,6 +1,6 @@
 ### Hi there, I'm [xianii](https://nigh.github.io) 👋
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <table border="0" align="center" style="margin:0 auto;">
 <tr>
     <td><img src="https://github.com/Nigh/nigh/raw/master/assets/sch.png"/></td>
@@ -14,7 +14,7 @@
 </tr>
 </table>
 
-<h3 align="left">Work on</h3>
+<h3 align="center">Work on</h3>
 <table border="0" align="center" style="margin:0 auto;">
 <tr>
     <td><img src="https://github.com/Nigh/nigh/raw/master/assets/arm.png"/></td>
@@ -30,7 +30,7 @@
 </tr>
 </table>
 
-<h3 align="left">Language</h3>
+<h3 align="center">Language</h3>
 <table border="0" align="center" style="margin:0 auto;">
 <tr>
     <td><img src="https://github.com/Nigh/nigh/raw/master/assets/c.png"/></td>
@@ -44,6 +44,7 @@
 </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=monokai)
-
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=monokai">
+</p>
 
