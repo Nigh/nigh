@@ -3,6 +3,26 @@
 </h1>
 
 <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=nigh.visitor-badge"/>
+</p>
+
+Hi There,
+
+I'm `xianii`, a fullstack `Electronics Engineer`
+
+### Language
+[![My Language](https://skillicons.dev/icons?theme=dark&i=c,go,v,lua,regex)](https://skillicons.dev)
+### Develop Tool
+[![My Develop tool](https://skillicons.dev/icons?theme=dark&i=git,vscode)](https://skillicons.dev)
+### Opensource Hardware
+[![My Opensource Hardware](https://skillicons.dev/icons?theme=dark&i=arduino,raspberrypi)](https://skillicons.dev)
+### Frontend
+[![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,svelte,react,materialui)](https://skillicons.dev)
+### 3D Modeling
+[![My 3D](https://skillicons.dev/icons?perline=4&theme=dark&i=blender)](https://skillicons.dev)
+
+
+<p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=dracula"/>
     <img width="48%" src="https://streak-stats.demolab.com/?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j"/>
 </p>
