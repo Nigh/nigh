@@ -20,14 +20,21 @@ I have spent the last decade doing a lot of development of ultra-low power consu
 - `Lua` for `LÖVE2D`.
 - `vlang` is an interesting project.
 - `Regular expressions` should be learned by everyone.
+- `AutoHotKey` for windows automation tools and desktop apps.
 
 ### Develop Tool
 [![My Develop tool](https://skillicons.dev/icons?theme=dark&i=git,vscode)](https://skillicons.dev)
 
+- `Git` for version control, not only for code, but for almost everything.
+- `vscode` is an editor good enough for daily use, but it could be better.
+- `tinyCC` is used to perform unit tests on embedded c projects. In these bare metal environments without an operating system, there is a real lack of modern tools to automate the testing.
+- `KiCAD` for PCB layout.
 
 ### Opensource Hardware
 [![My Opensource Hardware](https://skillicons.dev/icons?theme=dark&i=arduino,raspberrypi)](https://skillicons.dev)
 
+- `Arduino` dev boards are used to build tools for automated testing in microcontroller projects.
+- `RaspberryPi`, if I want, on which I can write code, compile, download programs and do automated test work for microcontrollers. Of course, normally, I just use it to run some IoT projects or to run some simple web services.
 
 ### Frontend
 [![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,svelte,react,materialui)](https://skillicons.dev)
