@@ -39,10 +39,14 @@ I have spent the last decade doing a lot of development of ultra-low power consu
 ### Frontend
 [![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,svelte,react,materialui)](https://skillicons.dev)
 
+- PWA applications built using modern front-end technologies are much easier to develop and distribute than native applications. And UI layout and interaction design become much easier.
 
 ### 3D Modeling
 [![My 3D](https://skillicons.dev/icons?perline=4&theme=dark&i=blender)](https://skillicons.dev)
 
+- `blender` for modeling for 3D printing.
+
+## GitHub stats
 
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=dracula"/>
