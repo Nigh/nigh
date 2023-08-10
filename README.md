@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=nigh.visitor-badge"/>
+    <img align="center" src="https://komarev.com/ghpvc/?username=Nigh"/>
 </p>
 
 <p align="center">
