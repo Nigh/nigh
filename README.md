@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://nigh.github.io">xianii<img align="center" src="https://img.icons8.com/bubbles/50/000000/skirt.png"/></a>
+    <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&onedark=onedark&text=xianii&desc=nya~&descSize=20&descAlign=64&descAlignY=64&height=180"/>
 </h1>
 
 <p align="center">
