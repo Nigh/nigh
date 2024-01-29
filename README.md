@@ -54,8 +54,8 @@ Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly th
 ## GitHub stats
 
 <p align="center">
-    <img width="48%" height="180" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=dracula"/>
-    <img width="48%" height="180" src="https://streak-stats.demolab.com/?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j"/>
+    <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=dracula"/>
+    <img width="48%" height="160" src="https://streak-stats.demolab.com/?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j"/>
 </p>
 
 <p align="center">
