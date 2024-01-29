@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align="center" src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&onedark=onedark&text=xianii&desc=nya~&descSize=20&descAlign=64&descAlignY=64&height=180"/>
+    <img align="center" src="https://capsule-render.vercel.app/api?type=Cylinder&color=0:ad9fff,100:fbc7d4&text=I%27m%20xianii&fontColor=eeeeee&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
 </h1>
 
 <p align="center">
@@ -10,19 +10,23 @@
 <img width="66%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
 </p>
 
-Hi There,
+Hi there,
 
-I'm `xianii`, a self-thought fullstack `Electronics Engineer`. 
+I'm `xianii`, a fullstack `Electronics Engineer` with expertise in schematic and layout design using `KiCad`.
 
-For an electronic product, my development process looks like this:  
-Firstly, I will use `KiCad` for schematic and layout design.  
-Then I mainly use `C` to develop the firmware.  
-For the application part I use `Svelte` to develop web applications that rely on webassembly technologies such as `Web HID` and `Web Bluetooth`.  
-Finally, I will use `Blender` to design the 3D shape of the product and use 3D printing to verify it.
+In the firmware development process, I primarily use `C` to develop robust and efficient firmware for electronic products.
 
+For web application development, I rely on `Svelte` to create interactive and dynamic web applications. These applications leverage webassembly technologies like `Web HID` and `Web Bluetooth` to seamlessly communicate with the firmware.
 
-During development, I will use `git` for version control and I have deployed my own `gitea` server for that. In `windows` environment, I will use `Autohotkey` to write some automated build and test tools.  
-I will use `golang` to develop some web applications and use `docker` to deploy them. Various development boards of `Arduino` and `Raspberry pi` are also an essential part of my toolchain, for example, I often use the `rp2040` for technical verification.
+In the realm of 3D design and verification, I employ `Blender` to design the 3D shape of the product, and I utilize 3D printing to verify the design's functionality.
+
+To ensure effective version control during development, I rely on `Git` and have also set up my own `gitea` server.
+
+In the `Windows` environment, I use `Autohotkey` to write automated build and test tools, streamlining the development process.
+
+For web application development, I leverage the power of `golang` and deploy applications using `Docker`.
+
+Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly the `rp2040`, are indispensable tools in my technical verification process.
 
 ### Tech Stack
 
