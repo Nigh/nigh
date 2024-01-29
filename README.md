@@ -7,56 +7,53 @@
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&margin-w=5&margin-h=5&theme=discord"/>
+<img width="66%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
 </p>
 
 Hi There,
 
-I'm `xianii`, a fullstack `Electronics Engineer`. 
+I'm `xianii`, a self-thought fullstack `Electronics Engineer`. 
 
-I have spent the last decade doing a lot of development of ultra-low power consumer electronics. For example, various sports bracelets, hybrid smart watches, etc.
+For an electronic product, my development process looks like this:  
+Firstly, I will use `KiCad` for schematic and layout design.  
+Then I mainly use `C` to develop the firmware.  
+For the application part I use `Svelte` to develop web applications that rely on webassembly technologies such as `Web HID` and `Web Bluetooth`.  
+Finally, I will use `Blender` to design the 3D shape of the product and use 3D printing to verify it.
 
-### Language
-[![My Language](https://skillicons.dev/icons?theme=dark&i=c,go,v,lua,regex)](https://skillicons.dev)
 
-- `Embedded C` for developing of microcontroller firmware.
-- `Golang` for developing of desktop apps and backend applications.
-- `Lua` for `LÖVE2D`.
-- `vlang` is an interesting project.
-- `Regular expressions` should be learned by everyone.
-- `AutoHotKey` for windows automation tools and desktop apps.
+During development, I will use `git` for version control and I have deployed my own `gitea` server for that. In `windows` environment, I will use `Autohotkey` to write some automated build and test tools.  
+I will use `golang` to develop some web applications and use `docker` to deploy them. Various development boards of `Arduino` and `Raspberry pi` are also an essential part of my toolchain, for example, I often use the `rp2040` for technical verification.
 
-### Develop Tool
-[![My Develop tool](https://skillicons.dev/icons?theme=dark&i=git,vscode)](https://skillicons.dev)
+### Tech Stack
 
-- `Git` for version control, not only for code, but for almost everything.
-- `vscode` is an editor good enough for daily use, but it could be better.
-- `tinyCC` is used to perform unit tests on embedded c projects. In these bare metal environments without an operating system, there is a real lack of modern tools to automate the testing.
-- `KiCAD` for PCB layout.
-
-### Opensource Hardware
-[![My Opensource Hardware](https://skillicons.dev/icons?theme=dark&i=arduino,raspberrypi)](https://skillicons.dev)
-
-- `Arduino` dev boards are used to build tools for automated testing in microcontroller projects.
-- `RaspberryPi`, if I want, on which I can write code, compile, download programs and do automated test work for microcontrollers. Of course, normally, I just use it to run some IoT projects or to run some simple web services.
-
-### Frontend
-[![My Frontend](https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,vite,tailwind,windicss,svelte,react,materialui)](https://skillicons.dev)
-
-- PWA applications built using modern front-end technologies are much easier to develop and distribute than native applications. And UI layout and interaction design become much easier.
-
-### 3D Modeling
-[![My 3D](https://skillicons.dev/icons?perline=4&theme=dark&i=blender)](https://skillicons.dev)
-
-- `blender` for modeling for 3D printing.
+<p align="center">
+<img alt="C" src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img alt="golang" src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img alt="autohotkey" src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey">
+<img alt="Lua" src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+<br>
+<img alt="Svelte" src="https://img.shields.io/badge/svelte-f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<br>
+<img alt="Git" src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img alt="Gitea" src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425">
+<img alt="Docker" src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<br>
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img alt="kicad" src="https://img.shields.io/badge/kicad-314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white">
+<img alt="Blender" src="https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+<br>
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+</p>
 
 ## GitHub stats
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=dracula"/>
-    <img width="48%" src="https://streak-stats.demolab.com/?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j"/>
+    <img width="48%" height="180" src="https://github-readme-stats.vercel.app/api?username=nigh&show_icons=true&count_private=true&theme=dracula"/>
+    <img width="48%" height="180" src="https://streak-stats.demolab.com/?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j"/>
 </p>
 
 <p align="center">
-    <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=nigh&bg_color=282a36&line=dd6387&point=78d9f9&color=f8f8f2&radius=8"/>
+    <img width="96%" height="180" src="https://activity-graph.herokuapp.com/graph?username=nigh&bg_color=282a36&line=dd6387&point=78d9f9&color=f8f8f2&radius=8"/>
 </p>
