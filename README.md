@@ -7,30 +7,6 @@
 </p>
 
 <p align="center">
-<img width="66%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
-</p>
-
-Hi there,
-
-I'm `xianii`, a fullstack `Electronics Engineer` with expertise in schematic and layout design using `KiCad`.
-
-In the firmware development process, I primarily use `C` to develop robust and efficient firmware for electronic products.
-
-For web application development, I rely on `Svelte` to create interactive and dynamic web applications. These applications leverage webassembly technologies like `Web HID` and `Web Bluetooth` to seamlessly communicate with the firmware.
-
-In the realm of 3D design and verification, I employ `Blender` to design the 3D shape of the product, and I utilize 3D printing to verify the design's functionality.
-
-To ensure effective version control during development, I rely on `Git` and have also set up my own `gitea` server.
-
-In the `Windows` environment, I use `Autohotkey` to write automated build and test tools, streamlining the development process.
-
-For web application development, I leverage the power of `golang` and deploy applications using `Docker`.
-
-Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly the `rp2040`, are indispensable tools in my technical verification process.
-
-### Tech Stack
-
-<p align="center">
 <img alt="C" src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img alt="golang" src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img alt="autohotkey" src="https://img.shields.io/badge/autohotkey-334455?style=for-the-badge&logo=autohotkey">
@@ -51,7 +27,29 @@ Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly th
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
 </p>
 
+Hi there,
+
+I'm `xianii`, a fullstack `Electronics Engineer` with expertise in schematic and layout design using `KiCad`.
+
+In the firmware development process, I primarily use `C` to develop robust and efficient firmware for electronic products.
+
+For web application development, I rely on `Svelte` to create interactive and dynamic web applications. These applications leverage webassembly technologies like `Web HID` and `Web Bluetooth` to seamlessly communicate with the firmware.
+
+In the realm of 3D design and verification, I employ `Blender` to design the 3D shape of the product, and I utilize 3D printing to verify the design's functionality.
+
+To ensure effective version control during development, I rely on `Git` and have also set up my own `gitea` server.
+
+In the `Windows` environment, I use `Autohotkey` to write automated build and test tools, streamlining the development process.
+
+For web application development, I leverage the power of `golang` and deploy applications using `Docker`.
+
+Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly the `rp2040`, are indispensable tools in my technical verification process.
+
 ## GitHub stats
+
+<p align="center">
+<img width="60%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
+</p>
 
 <p align="center">
     <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
