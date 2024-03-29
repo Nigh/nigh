@@ -47,12 +47,38 @@ Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly th
 
 ## GitHub stats
 
-<p align="center">
-<img width="60%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
-</p>
-
-<p align="center">
-    <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
-    <img width="48%" height="160" src="https://streak-stats.demolab.com?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"/>
-</p>
-
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=buefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="60%" src="https://github-profile-trophy.vercel.app/?username=Nigh&column=5&row=2&margin-w=5&margin-h=5&theme=discord"/>
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=buefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="48%" height="160" src="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
+</picture>
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=nigh&theme=buefy&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="48%" height="160" src="https://streak-stats.demolab.com?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"/>
+</picture>
+</div>
