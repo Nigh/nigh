@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=0:ad9fff,100:fbc7d4&text=🈶%20I%27m%20xianii&fontColor=eeeeee&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
+    <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=0:ad9fff,100:fbc7d4&text=🛹I%27m%20xianii&fontColor=eeeeee&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
 </h1>
 
 <p align="left">
@@ -47,7 +47,7 @@ Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly th
 
 ## GitHub stats
 
-<div align="center">
+<div align="left">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"
