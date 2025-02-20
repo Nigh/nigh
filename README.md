@@ -61,13 +61,14 @@ Lastly, development boards such as `Arduino` and `Raspberry Pi`, particularly th
 </picture>
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"
+    srcset="https://streak-stats.demolab.com?user=Nigh&theme=dracula&date_format=%5BY.%5Dn.j&mode=weekly"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=nigh&theme=buefy&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"
+    srcset="https://streak-stats.demolab.com?user=Nigh&theme=dracula&date_format=%5BY.%5Dn.j&mode=weekly"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="48%" height="160" src="https://streak-stats.demolab.com?user=nigh&theme=dracula&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat"/>
+  <img width="48%" height="160" src="https://streak-stats.demolab.com?user=Nigh&theme=dracula&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
 </picture>
 </div>
+
