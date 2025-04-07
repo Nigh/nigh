@@ -68,3 +68,15 @@ Let's build something amazing together! 🚀
 </picture>
 </div>
 
+## Other stats
+<picture>
+  <source
+    srcset="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://osusig.lolico.moe/sig.php?colour=hex000000&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"/>
+</picture>
