@@ -89,3 +89,7 @@ Let's build something amazing together! 🚀
   />
   <img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"/>
 </picture>
+
+## Social
+
+<a rel="me" href="https://mastodon.cloud/@nigh">Mastodon</a>
