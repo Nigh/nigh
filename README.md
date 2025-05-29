@@ -92,4 +92,4 @@ Let's build something amazing together! 🚀
 
 ## Social
 
-<a rel="me" href="https://mastodon.cloud/@nigh">Mastodon</a>
+<a rel="me" href="https://mastodon.cloud/@nigh"> </a>
