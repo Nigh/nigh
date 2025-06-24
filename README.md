@@ -91,3 +91,15 @@ Let's build something amazing together! 🚀
 </picture>
 
 <a rel="me" href="https://mastodon.cloud/@nigh"> </a>
+
+## My Link
+If you would like to exchange links, please feel free to use the material below.
+
+<img width="100" src="https://github.com/user-attachments/assets/5296f2d0-7ae1-4986-bd1d-f1654d9d5113" alt="profile" />
+
+- NickName (you should use the name same as your link target, **xianii** for *GitHub*, **TecNico** for *tecnico.cc* for example)
+    - xianii
+    - TecNico
+- Bio
+    - 一个普通的全栈电子工程师
+    - Full-stack electronics engineer
