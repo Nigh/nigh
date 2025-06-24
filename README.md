@@ -95,7 +95,7 @@ Let's build something amazing together! 🚀
 ## My Link
 If you would like to exchange links, please feel free to use the material below.
 
-<img width="100" src="https://github.com/user-attachments/assets/5296f2d0-7ae1-4986-bd1d-f1654d9d5113" alt="profile" />
+<img width="100" src="https://github.com/user-attachments/assets/1b605253-4dad-4410-b59b-766bff64628b" alt="profile" />
 
 - NickName (you should use the name same as your link target, **xianii** for *GitHub*, **TecNico** for *tecnico.cc* for example)
     - xianii
