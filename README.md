@@ -94,12 +94,19 @@ Let's build something amazing together! 🚀
 
 ## My Link
 If you would like to exchange links, please feel free to use the material below.
+```json
+{
+  "pic": "https://avatars.githubusercontent.com/u/1407471",
+  "name": "TecNico",
+  "bio": "一个普通的全栈电子工程师",
+  "link": "https://tecnico.cc/"
+}
+{
+  "pic": "https://avatars.githubusercontent.com/u/1407471",
+  "name": "xianii",
+  "bio": "Full-stack electronics engineer",
+  "link": "https://github.com/Nigh"
+}
+```
+Always use the name same as your link target, e.g. **xianii** for *GitHub*, **TecNico** for *tecnico.cc*
 
-<img width="100" src="https://github.com/user-attachments/assets/1b605253-4dad-4410-b59b-766bff64628b" alt="profile" />
-
-- NickName (you should use the name same as your link target, **xianii** for *GitHub*, **TecNico** for *tecnico.cc* for example)
-    - xianii
-    - TecNico
-- Bio
-    - 一个普通的全栈电子工程师
-    - Full-stack electronics engineer
