@@ -104,9 +104,15 @@ If you would like to exchange links, please feel free to use the material below.
 {
   "pic": "https://avatars.githubusercontent.com/u/1407471",
   "name": "xianii",
-  "bio": "Full-stack electronics engineer",
-  "link": "https://github.com/Nigh"
+  "bio": "A random full-stack electronics engineer",
+  "link": "https://nigh.github.io/"
 }
 ```
-Always use the name same as your link target, e.g. **xianii** for *GitHub*, **TecNico** for *tecnico.cc*
+
+## About My Usernames
+Regarding my three usernames (or handles)—`Nigh`, `xianii`, and `TecNico`—they all represent me. "Three in one," so to speak, haha.
+
+`Nigh` is an username I used earlier on, and it's hardly ever used publicly now.
+`xianii` is one of my regular usernames, intentionally designed to be difficult to pronounce, so don't bother trying to sound it out.
+If you need to refer to me verbally, please call me `TecNico`. This is the one I use most frequently on social media, especially when I need to say my own username out loud.
 
