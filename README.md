@@ -90,7 +90,7 @@ Let's build something amazing together! 🚀
   <img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"/>
 </picture>
 
-<a rel="me" href="https://mastodon.cloud/@nigh"> </a>
+<a rel="me" href="https://mastodon.social/@xianii"> </a>
 
 ## My Link
 If you would like to exchange links, please feel free to use the material below.
