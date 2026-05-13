@@ -1,10 +1,10 @@
 
 <h1 align="left">
-    <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=0:ad9fff,100:fbc7d4&text=🛹I%27m%20xianii&fontColor=eeeeee&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
+    <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=0:e8807a,100:ca7dd6&text=🛹I%27m%20xianii&fontColor=f4f3f6&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
 </h1>
 
 <p align="left" class="py-4">
-    <img src="https://komarev.com/ghpvc/?username=Nigh&color=ad9fff&style=for-the-badge&abbreviated=true&label=VIEWS"/>
+    <img src="https://komarev.com/ghpvc/?username=Nigh&color=ca7dd6&style=for-the-badge&abbreviated=true&label=VIEWS"/>
 </p>
 
 <div class="flex flex-col pb-4" align="left">
