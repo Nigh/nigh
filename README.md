@@ -1,10 +1,10 @@
 
 <h1 align="left">
-    <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=0:ad9fff,100:fbc7d4&text=🛹I%27m%20xianii&fontColor=eeeeee&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
+    <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=0:e8807a,100:ca7dd6&text=🛹I%27m%20xianii&fontColor=f4f3f6&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
 </h1>
 
 <p align="left" class="py-4">
-    <img src="https://komarev.com/ghpvc/?username=Nigh&color=ad9fff&style=for-the-badge&abbreviated=true&label=VIEWS"/>
+    <img src="https://komarev.com/ghpvc/?username=Nigh&color=ca7dd6&style=for-the-badge&abbreviated=true&label=VIEWS"/>
 </p>
 
 <div class="flex flex-col pb-4" align="left">
@@ -51,18 +51,7 @@ Let's build something amazing together! 🚀
 
 ## GitHub stats
 
-<div class="flex h-max" align="left">
-<picture class="">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=buefy"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=nigh&disable_animations=true&show_icons=true&rank_icon=percentile&count_private=true&theme=dracula"/>
-</picture>
+<div class="flex h-max" align="center">
 <picture class="">
   <source
     srcset="https://streak-stats.demolab.com?user=Nigh&theme=dracula&date_format=%5BY.%5Dn.j&mode=weekly"
@@ -76,19 +65,14 @@ Let's build something amazing together! 🚀
 </picture>
 </div>
 
-## Other stats
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Nigh/nigh/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nigh/nigh/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nigh/nigh/output-3d-contrib/night.svg" />
+	</picture>
+</p>
 
-<picture>
-  <source
-    srcset="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://osusig.lolico.moe/sig.php?colour=hex000000&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://osusig.lolico.moe/sig.php?colour=hexff66aa&uname=dracula004&countryrank&removeavmargin&flagstroke&xpbar&xpbarhex"/>
-</picture>
 
 <a rel="me" href="https://mastodon.social/@xianii"> </a>
 

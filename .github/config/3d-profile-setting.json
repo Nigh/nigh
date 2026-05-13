@@ -1,0 +1,78 @@
+[
+    {
+        "type": "season",
+        "fileName": "day.svg",
+        "backgroundColor": "#f4f3f6",
+        "foregroundColor": "#2d2d2d",
+        "strongColor": "#2d2d2d",
+        "weakColor": "#a0a0a0",
+        "radarColor": "#e8807a",
+        "growingAnimation": true,
+        "contribColors1": [
+            "#ebe8ea",
+            "#e8c0be",
+            "#e89893",
+            "#e8807a",
+            "#c94a50"
+        ],
+        "contribColors2": [
+            "#ebe8ea",
+            "#dfc4e6",
+            "#d4a3d8",
+            "#ca7dd6",
+            "#a44eb8"
+        ],
+        "contribColors3": [
+            "#ebe8ea",
+            "#e8ddb0",
+            "#ddd07a",
+            "#d9b740",
+            "#b8931a"
+        ],
+        "contribColors4": [
+            "#ebe8ea",
+            "#d6c8d0",
+            "#c4a8b8",
+            "#b08a9e",
+            "#8a6078"
+        ]
+    },
+    {
+        "type": "season",
+        "fileName": "night.svg",
+        "backgroundColor": "#2d2d2d",
+        "foregroundColor": "#f4f3f6",
+        "strongColor": "#d9b740",
+        "weakColor": "#666666",
+        "radarColor": "#d9b740",
+        "growingAnimation": true,
+        "contribColors1": [
+            "#3a3a3a",
+            "#7a4a48",
+            "#a85c58",
+            "#e8807a",
+            "#f0a0a0"
+        ],
+        "contribColors2": [
+            "#3a3a3a",
+            "#5e3a6e",
+            "#8a4ea0",
+            "#ca7dd6",
+            "#e0a8ee"
+        ],
+        "contribColors3": [
+            "#3a3a3a",
+            "#6e5a20",
+            "#a07a1a",
+            "#d9b740",
+            "#f0d870"
+        ],
+        "contribColors4": [
+            "#3a3a3a",
+            "#5a4a50",
+            "#7a6070",
+            "#a08090",
+            "#c0a0b0"
+        ]
+    }
+]
