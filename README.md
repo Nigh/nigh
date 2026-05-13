@@ -1,11 +1,29 @@
 
 <h1 align="left">
-    <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=0:e8807a,100:ca7dd6&text=🛹I%27m%20xianii&fontColor=f4f3f6&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e8807a,100:ca7dd6&text=🛹I%27m%20xianii&fontColor=f4f3f6&fontAlign=23&fontAlignY=54&fontSize=60&animation=fadeIn&height=120"/>
 </h1>
 
 <p align="left" class="py-4">
     <img src="https://komarev.com/ghpvc/?username=Nigh&color=ca7dd6&style=for-the-badge&abbreviated=true&label=VIEWS"/>
 </p>
+
+###
+
+**Hi there, I'm xianii 👋**
+
+I'm a **Full-stack Electronics Engineer** with a passion for building things from the ground up. Here's a glimpse into my tech stack:
+
+- **Hardware Design**: I use `KiCad` for PCB layout and `Blender` for designing 3D-printable structural components.
+- **Embedded Systems**: I develop firmware using `C`.
+- **Desktop Applications**: I create cross-platform apps using `Wails`, `Golang`, and `Svelte`. On `Windows`, I also leverage `AutoHotkey` for quick utility development.
+- **Web Development**:
+  - Frontend: `Svelte` + `TailwindCSS`
+  - Backend: `Golang` and `Node.js`
+- **DevOps**: I often use `Docker` to set up development environments and prefer Docker-based deployments whenever possible.
+
+Let's build something amazing together! 🚀
+
+## Tech Stack
 
 <div class="flex flex-col pb-4" align="left">
 <div class="flex">
@@ -35,35 +53,7 @@
 </div>
 </div>
 
-**Hi there, I'm xianii 👋**
-
-I'm a **Full-stack Electronics Engineer** with a passion for building things from the ground up. Here's a glimpse into my tech stack:
-
-- **Hardware Design**: I use `KiCad` for PCB layout and `Blender` for designing 3D-printable structural components.
-- **Embedded Systems**: I develop firmware using `C`.
-- **Desktop Applications**: I create cross-platform apps using `Wails`, `Golang`, and `Svelte`. On `Windows`, I also leverage `AutoHotkey` for quick utility development.
-- **Web Development**:
-  - Frontend: `Svelte` + `TailwindCSS`
-  - Backend: `Golang` and `Node.js`
-- **DevOps**: I often use `Docker` to set up development environments and prefer Docker-based deployments whenever possible.
-
-Let's build something amazing together! 🚀
-
 ## GitHub stats
-
-<div class="flex h-max" align="center">
-<picture class="">
-  <source
-    srcset="https://streak-stats.demolab.com?user=Nigh&theme=dracula&date_format=%5BY.%5Dn.j&mode=weekly"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=Nigh&theme=dracula&date_format=%5BY.%5Dn.j&mode=weekly"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="380" src="https://streak-stats.demolab.com?user=Nigh&theme=dracula&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
-</picture>
-</div>
 
 <p align="center" >
 	<picture>
@@ -71,6 +61,10 @@ Let's build something amazing together! 🚀
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nigh/nigh/output-3d-contrib/day.svg" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Nigh/nigh/output-3d-contrib/night.svg" />
 	</picture>
+</p>
+
+<p align="center" >
+  <img src="https://streak-stats.demolab.com?user=Nigh&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Sun%2CSat&card_width=800&card_height=200&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
 
