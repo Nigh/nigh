@@ -9,7 +9,7 @@
 
 ###
 
-**Hi there, I'm xianii 👋**
+**Hi there, I'm `xianii` 👋** *and you can call me TecNico.*
 
 I'm a **Full-stack Electronics Engineer** with a passion for building things from the ground up. Here's a glimpse into my tech stack:
 
@@ -87,10 +87,17 @@ If you would like to exchange links, please feel free to use the material below.
 }
 ```
 
+<details>
+<summary>
+	
 ## About My Usernames
+
+</summary>
+
 Regarding my three usernames (or handles)—`Nigh`, `xianii`, and `TecNico`—they all represent me. "Three in one," so to speak, haha.
 
 `Nigh` is an username I used earlier on, and it's hardly ever used publicly now.
 `xianii` is one of my regular usernames, intentionally designed to be difficult to pronounce, so don't bother trying to sound it out.
 If you need to refer to me verbally, please call me `TecNico`. This is the one I use most frequently on social media, especially when I need to say my own username out loud.
 
+</details>
