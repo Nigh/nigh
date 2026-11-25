@@ -9,21 +9,20 @@
 
 ###
 
-**Hi there, I'm `xianii` 👋** *and you can call me TecNico.*
+**Hi, I'm `xianii` 👋** You can also call me TecNico.
 
-I'm a **Full-stack Electronics Engineer** with a passion for building things from the ground up. Here's a glimpse into my tech stack:
+I'm a **full-stack electronics engineer**. I build across hardware,
+firmware, applications, and infrastructure.
 
-- **Hardware Design**: I use `KiCad` for PCB layout and `Blender` for designing 3D-printable structural components.
-- **Embedded Systems**: I develop firmware using `C`.
-- **Desktop Applications**: I create cross-platform apps using `Wails`, `Golang`, and `Svelte`. On `Windows`, I also leverage `AutoHotkey` for quick utility development.
-- **Web Development**:
-  - Frontend: `Svelte` + `TailwindCSS`
-  - Backend: `Golang` and `Node.js`
-- **DevOps**: I often use `Docker` to set up development environments and prefer Docker-based deployments whenever possible.
+The stack below is what I had already mastered before the AI coding
+era. It's my foundation, not my limit.
 
-Let's build something amazing together! 🚀
+With years of engineering experience across disciplines and AI as
+part of my workflow, I can pick up a new stack and start building
+products with it on day zero. Languages, frameworks, and tools no
+longer define what I can build.
 
-## Tech Stack
+## My Pre-AI Foundation
 
 <div class="flex flex-col pb-4" align="left">
 <div class="flex">
